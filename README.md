@@ -35,10 +35,11 @@ Once you clone the repo, you'll get the following files:
 
 * Energy.ipynb : Jupyter Notebook with the Data Analysis
 * enerdata_energy_statistical_yearbook_2018.xlsx: .XLSX file contaning the data.
-  If you wish, go to [World Energy Statistics](https://yearbook.enerdata.net/) and get an updated version of the file.
-  This file will be updated in future works.
 * LICENSE : MIT License
 * README : This README
+
+If you wish, go to [World Energy Statistics](https://yearbook.enerdata.net/) and get an updated version of the .XLSX file.
+This file will be updated in future works.
 
 ## Usage
 
