@@ -7,6 +7,7 @@ This project is only for research/fun purposes, but I intend to expand it and ma
 * [Installation](#Installation)
 * [Technologies]($Technologies)
 * [Usage](#Usage)
+* [Results](#Results)
 * [Collaborating](#Collaborating)
 * [Future Work](#Future-Work)
 
@@ -44,6 +45,24 @@ This file will be updated in future works.
 ## Usage
 
 Just open the Jupyter Notebook and use the predefined functions `etl` and `plotting_prep` with a `Location` of your choice.
+
+## Results
+
+This versions' analysis tried to answer the following questions:
+
+1. Are we, Brazilians, investing in Energy generation?
+2. Are we getting more efficient in our production?
+3. Brazil is well known for its renewable energy sources, but are we still on the podium?
+4. Which other countries should we look to?
+
+And the answers were:
+
+1. Yes, but not doing it properly
+2. The results were ambiguous therefore require further analysis
+3. We lost our position recently to Colombia and New Zealand
+4. We should definitely look to Norway, New Zealand and Colombia
+
+Check the [Medium Post](https://medium.com/@luisgaravaso/this-will-make-us-brazilians-rethink-our-energy-investments-525b9c49a087) about it.
 
 ## Collaborating
 
