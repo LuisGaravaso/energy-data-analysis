@@ -15,6 +15,9 @@ This project is only for research/fun purposes, but I intend to expand it and ma
 This project uses:
 
 * Python 3.8.7
+
+And the packages:
+
 * Numpy 1.19.2
 * Pandas 1.2.1
 * MatplotLib 3.3.2
