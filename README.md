@@ -5,15 +5,37 @@ This project is only for research/fun purposes, but I intend to expand it and ma
 
 ## Table of contents
 * [Installation](#Installation)
+* [Technologies]($Technologies)
 * [Usage](#Usage)
 * [Collaborating](#Collaborating)
-* [Future Work](#Future Worl)
+* [Future Work](#Future Work)
+
+## Technologies
+
+This project uses:
+
+* Python 3.8.7
+* Numpy 1.19.2
+* Pandas 1.2.1
+* MatplotLib 3.3.2
+* Seaborn 0.11.1
 
 ## Installation
 
 ```
 $ git clone https://github.com/LuisGaravaso/energy-data-analysis
 ```
+
+## Files
+
+Once you clone the repo, you'll get the following files:
+
+* Energy.ipynb : Jupyter Notebook with the Data Analysis
+* enerdata_energy_statistical_yearbook_2018.xlsx: .XLSX file contaning the data.
+  If you wish, go to [World Energy Statistics](https://yearbook.enerdata.net/) and get an updated version of the file.
+  This file will be updated in future works.
+* LICENSE : MIT License
+* README : This README
 
 ## Usage
 
