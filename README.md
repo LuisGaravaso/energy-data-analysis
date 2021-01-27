@@ -8,7 +8,7 @@ This project is only for research/fun purposes, but I intend to expand it and ma
 * [Technologies]($Technologies)
 * [Usage](#Usage)
 * [Collaborating](#Collaborating)
-* [Future Work](#Future Work)
+* [Future Work](#Future-Work)
 
 ## Technologies
 
