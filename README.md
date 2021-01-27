@@ -3,6 +3,12 @@ This repository is a personal project to analyze countries' energy investments.
 Since I am Brazilian, I focus my analysis in Brazil, but you are welcome to clone the repository and change the `Location` of your choice.
 This project is only for research/fun purposes, but I intend to expand it and make something useful for the world with it someday.
 
+## Table of contents
+* [Installation](#Installation)
+* [Usage](#Usage)
+* [Collaborating](#Collaborating)
+* [Future Work](#Future Worl)
+
 ## Installation
 
 ```
