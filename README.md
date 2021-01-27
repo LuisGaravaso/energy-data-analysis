@@ -48,7 +48,7 @@ Just open the Jupyter Notebook and use the predefined functions `etl` and `plott
 
 ## Results
 
-This versions' analysis tried to answer the following questions:
+This version's analysis tried to answer the following questions:
 
 1. Are we, Brazilians, investing in Energy generation?
 2. Are we getting more efficient in our production?
